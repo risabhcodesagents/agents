@@ -1,0 +1,17 @@
+{
+  "name": "risabh_codes_agents",
+  "version": "1.0.0",
+  "main": "helloWorldV1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/langgraph": "^1.4.14",
+    "@langchain/openai": "^1.5.13"
+  }
+}
