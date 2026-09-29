@@ -8,3 +8,5 @@ Instagram channel link: [@risabh.codes.agents](https://www.instagram.com/risabh.
 2. greetingAgent: Using llm (qwen2.5-vl) running with llama.cpp, I have made a very simple greeting agents, where user will provide a name and llm will process it and return a warm greeting.
 
 3. conditionalAgent: A simple agent demonstrating the conditional edges used in langraph.
+
+4. Roleplay agent: Generated a system prompt based on character and can chat with that character.
