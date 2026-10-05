@@ -10,3 +10,5 @@ Instagram channel link: [@risabh.codes.agents](https://www.instagram.com/risabh.
 3. conditionalAgent: A simple agent demonstrating the conditional edges used in langraph.
 
 4. Roleplay agent: Generated a system prompt based on character and can chat with that character.
+
+5. Image Generation Agent: Generates images using local image generation model using `sd.cpp` package, and uses a local llm to enhance the prompt and generated and either saves/preview the images.

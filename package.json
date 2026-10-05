@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "@langchain/langgraph": "^1.4.14",
-    "@langchain/openai": "^1.5.13"
+    "@langchain/openai": "^1.5.13",
+    "terminal-image": "^5.0.1"
   }
 }
