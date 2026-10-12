@@ -12,3 +12,5 @@ Instagram channel link: [@risabh.codes.agents](https://www.instagram.com/risabh.
 4. Roleplay agent: Generated a system prompt based on character and can chat with that character.
 
 5. Image Generation Agent: Generates images using local image generation model using `sd.cpp` package, and uses a local llm to enhance the prompt and generated and either saves/preview the images.
+
+6. Agent With Tool: A calculator tool provided to the llm and llm chooses to decide whether to call it or simply chat, a very fundamental use of agent.

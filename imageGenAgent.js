@@ -65,7 +65,7 @@ const imageCreationNode = async state => {
     const { enhancedPrompt } = state
     //will use fetch
     //endpoint -- sdapi/v1/txt2img
-    const res = await fetch("http://localhost:8081/sdapi/v1/txt2img", {
+    const res = await fetch("http://localhost:1234/sdapi/v1/txt2img", {
         method: "POST",
         headers: {
             "content-type": "application/json"
